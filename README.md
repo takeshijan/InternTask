@@ -16,7 +16,8 @@
 #
 
 # Modelni ishga tushurish
-⚠️ Dataset kamligi va o'qitish epochlar soni kamligi sababli model aniqligi yuqori emas !
+⚠️ Dataset va o'qitish epochlar soni kamligi sababli model aniqligi yuqori emas !
+
 ⚠️ Modelni ishga tushurishdan avval GPU yoqilganligiga ishonch hosil qiling
 
 ⚠️ **model.h5** faylini Google Colab ga yuklab oling. Yuklash qulay bo'lishi uchun [havola](https://drive.google.com/file/d/1d0T4VmlnuwXw647jBBKXTmxQpRtR1EVV/view?usp=share_link)
